@@ -1,0 +1,11 @@
+footer{
+    background: url(../../images/Footer.png);
+    background-size: 100%;
+    background-position: center;
+
+}
+
+.glass{
+    backdrop-filter: blur(3px);
+    opacity: 100%;
+}
